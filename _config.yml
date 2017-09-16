@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-  new-4002:
+  https-api.github.com-search-usersqlocation-vit:
     title: new-4002
     output: true
     permalink: new-1002-perm
