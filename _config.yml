@@ -8,3 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
+  new-4002:
+    title: new-4002
+    output: true
